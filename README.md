@@ -1,5 +1,8 @@
 # CursoAngular2
 
+[Curso angular 2 Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
+
+## CLI
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.31.
 
 ## Development server
